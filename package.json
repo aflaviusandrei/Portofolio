@@ -23,7 +23,7 @@
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "express": "^4.16.4",
-    "file-type": "^10.9.0",
+    "file-type": "^16.5.4",
     "mongoose": "^5.4.19"
   }
 }
